@@ -1,0 +1,1501 @@
+﻿Opportunity,Time,Stage,Action
+OP001,43456.6055,1,Emailed Client
+OP001,43466.19231,1,Emailed Client
+OP001,43471.51592,2,Meeting with Client
+OP001,43479.39509,3,Presented to Client
+OP001,43483.32009,3,Presented to Client
+OP001,43491.23536,3,Presented to Client
+OP001,43492.82981,4,Prepared Custom Demonstration
+OP001,43496.21384,5,Prepared POC
+OP001,43505.60828,5,Prepared POC
+OP001,43509.59647,6,Provided Pre-Sales Support
+OP001,43515.23814,6,Provided Pre-Sales Support
+OP001,43526.02147,6,Provided Pre-Sales Support
+OP001,43536.79509,8,Prepared Commercials
+OP001,43538.67772,9,Negotiation Meeting
+OP001,43547.13675,9,Negotiation Meeting
+OP001,43555.6055,11,Post Sales Support
+OP001,43561.78884,11,Post Sales Support
+OP002,43456.6055,1,Emailed Client
+OP002,43466.56731,2,Meeting with Client
+OP002,43474.66939,2,Meeting with Client
+OP002,43485.56731,2,Meeting with Client
+OP002,43487.45759,2,Meeting with Client
+OP002,43491.68259,4,Prepared Custom Demonstration
+OP002,43498.96453,4,Prepared Custom Demonstration
+OP002,43500.32981,4,Prepared Custom Demonstration
+OP002,43507.693,5,Prepared POC
+OP002,43510.49161,6,Provided Pre-Sales Support
+OP002,43515.22981,6,Provided Pre-Sales Support
+OP002,43522.14578,6,Provided Pre-Sales Support
+OP002,43530.368,7,Prepared RFP Responses
+OP002,43531.42564,8,Prepared Commercials
+OP002,43540.14439,8,Prepared Commercials
+OP002,43541.94786,10,Commercials Signed
+OP002,43547.81731,11,Post Sales Support
+OP002,43550.24439,11,Post Sales Support
+OP002,43558.49995,11,Post Sales Support
+OP003,43457.6055,2,Meeting with Client
+OP003,43459.32356,3,Presented to Client
+OP003,43466.81939,3,Presented to Client
+OP003,43469.71661,3,Presented to Client
+OP003,43477.01245,4,Prepared Custom Demonstration
+OP003,43484.31036,5,Prepared POC
+OP003,43485.41522,7,Prepared RFP Responses
+OP003,43495.45689,7,Prepared RFP Responses
+OP003,43498.468,7,Prepared RFP Responses
+OP003,43500.23814,7,Prepared RFP Responses
+OP003,43508.60134,8,Prepared Commercials
+OP003,43514.86731,8,Prepared Commercials
+OP003,43517.92286,8,Prepared Commercials
+OP003,43525.77564,11,Post Sales Support
+OP003,43533.73189,11,Post Sales Support
+OP003,43542.36661,11,Post Sales Support
+OP004,43458.6055,3,Presented to Client
+OP004,43466.27147,3,Presented to Client
+OP004,43467.72911,3,Presented to Client
+OP004,43473.06106,4,Prepared Custom Demonstration
+OP004,43481.40759,5,Prepared POC
+OP004,43489.66245,6,Provided Pre-Sales Support
+OP004,43491.18467,7,Prepared RFP Responses
+OP004,43498.01314,7,Prepared RFP Responses
+OP004,43508.63536,8,Prepared Commercials
+OP004,43516.79509,8,Prepared Commercials
+OP004,43522.32981,9,Negotiation Meeting
+OP004,43527.47147,10,Commercials Signed
+OP004,43537.95897,10,Commercials Signed
+OP004,43542.69161,11,Post Sales Support
+OP005,43455.6055,1,Emailed Client
+OP005,43456.84439,1,Emailed Client
+OP005,43464.83259,2,Meeting with Client
+OP005,43466.00689,2,Meeting with Client
+OP005,43468.10134,3,Presented to Client
+OP005,43469.20759,5,Prepared POC
+OP005,43474.55064,6,Provided Pre-Sales Support
+OP005,43484.75272,6,Provided Pre-Sales Support
+OP005,43488.09995,6,Provided Pre-Sales Support
+OP005,43498.89856,8,Prepared Commercials
+OP005,43503.26939,9,Negotiation Meeting
+OP005,43505.62147,11,Post Sales Support
+OP006,43457.6055,1,Emailed Client
+OP006,43464.968,1,Emailed Client
+OP006,43470.95828,1,Emailed Client
+OP006,43476.18884,1,Emailed Client
+OP006,43482.87911,2,Meeting with Client
+OP006,43490.39717,3,Presented to Client
+OP006,43498.61661,3,Presented to Client
+OP006,43509.58814,3,Presented to Client
+OP006,43512.66939,3,Presented to Client
+OP006,43518.75411,4,Prepared Custom Demonstration
+OP006,43528.27078,4,Prepared Custom Demonstration
+OP006,43535.61661,5,Prepared POC
+OP006,43538.65064,5,Prepared POC
+OP006,43545.0812,5,Prepared POC
+OP006,43547.55272,6,Provided Pre-Sales Support
+OP006,43557.42564,6,Provided Pre-Sales Support
+OP006,43559.71036,7,Prepared RFP Responses
+OP006,43563.05897,7,Prepared RFP Responses
+OP006,43571.90064,8,Prepared Commercials
+OP006,43579.50203,9,Negotiation Meeting
+OP006,43589.30342,9,Negotiation Meeting
+OP007,43457.6055,1,Emailed Client
+OP007,43468.55342,1,Emailed Client
+OP007,43474.92009,2,Meeting with Client
+OP007,43476.04717,2,Meeting with Client
+OP007,43482.1562,3,Presented to Client
+OP007,43492.49856,3,Presented to Client
+OP007,43500.72842,4,Prepared Custom Demonstration
+OP007,43510.69856,6,Provided Pre-Sales Support
+OP007,43520.66036,6,Provided Pre-Sales Support
+OP007,43527.18884,6,Provided Pre-Sales Support
+OP007,43534.40134,6,Provided Pre-Sales Support
+OP007,43543.17009,7,Prepared RFP Responses
+OP007,43545.3055,7,Prepared RFP Responses
+OP007,43554.24578,7,Prepared RFP Responses
+OP007,43557.57634,8,Prepared Commercials
+OP007,43561.41731,10,Commercials Signed
+OP007,43566.28259,11,Post Sales Support
+OP008,43456.6055,2,Meeting with Client
+OP008,43458.343,4,Prepared Custom Demonstration
+OP008,43466.70272,4,Prepared Custom Demonstration
+OP008,43467.74995,4,Prepared Custom Demonstration
+OP008,43474.01661,5,Prepared POC
+OP008,43475.70134,7,Prepared RFP Responses
+OP008,43486.15064,7,Prepared RFP Responses
+OP008,43496.50689,7,Prepared RFP Responses
+OP008,43500.64092,8,Prepared Commercials
+OP008,43502.80689,9,Negotiation Meeting
+OP008,43504.00897,10,Commercials Signed
+OP008,43513.31939,11,Post Sales Support
+OP008,43520.69856,11,Post Sales Support
+OP008,43528.63675,11,Post Sales Support
+OP009,43455.6055,1,Emailed Client
+OP009,43462.35481,2,Meeting with Client
+OP009,43469.60134,2,Meeting with Client
+OP009,43476.80967,3,Presented to Client
+OP009,43483.51592,3,Presented to Client
+OP009,43489.72356,5,Prepared POC
+OP009,43500.08814,6,Provided Pre-Sales Support
+OP009,43505.15828,7,Prepared RFP Responses
+OP009,43508.55272,7,Prepared RFP Responses
+OP009,43518.77286,7,Prepared RFP Responses
+OP009,43522.21592,8,Prepared Commercials
+OP009,43528.45064,10,Commercials Signed
+OP009,43532.81661,10,Commercials Signed
+OP009,43534.21036,10,Commercials Signed
+OP009,43540.34092,10,Commercials Signed
+OP009,43541.35759,11,Post Sales Support
+OP009,43551.10828,11,Post Sales Support
+OP010,43454.6055,2,Meeting with Client
+OP010,43464.01939,3,Presented to Client
+OP010,43467.5562,3,Presented to Client
+OP010,43477.82286,3,Presented to Client
+OP010,43481.10342,4,Prepared Custom Demonstration
+OP010,43488.3687,4,Prepared Custom Demonstration
+OP010,43490.36592,4,Prepared Custom Demonstration
+OP010,43499.61939,5,Prepared POC
+OP010,43510.61731,6,Provided Pre-Sales Support
+OP010,43514.94578,6,Provided Pre-Sales Support
+OP010,43521.2812,6,Provided Pre-Sales Support
+OP010,43525.8937,8,Prepared Commercials
+OP010,43531.74647,9,Negotiation Meeting
+OP010,43541.80203,9,Negotiation Meeting
+OP010,43545.85272,9,Negotiation Meeting
+OP010,43549.25828,9,Negotiation Meeting
+OP010,43552.32842,10,Commercials Signed
+OP010,43558.10689,10,Commercials Signed
+OP010,43562.51036,11,Post Sales Support
+OP010,43565.00342,11,Post Sales Support
+OP010,43566.2055,11,Post Sales Support
+OP011,43458.6055,1,Emailed Client
+OP011,43465.80064,3,Presented to Client
+OP011,43469.08675,4,Prepared Custom Demonstration
+OP011,43475.62425,4,Prepared Custom Demonstration
+OP011,43482.14995,4,Prepared Custom Demonstration
+OP011,43483.40342,4,Prepared Custom Demonstration
+OP011,43490.77147,5,Prepared POC
+OP011,43492.64995,5,Prepared POC
+OP011,43503.05897,5,Prepared POC
+OP011,43505.42147,6,Provided Pre-Sales Support
+OP011,43515.98884,7,Prepared RFP Responses
+OP011,43519.65272,7,Prepared RFP Responses
+OP011,43524.8437,8,Prepared Commercials
+OP011,43529.42286,9,Negotiation Meeting
+OP011,43536.7305,9,Negotiation Meeting
+OP011,43537.74925,9,Negotiation Meeting
+OP011,43539.03814,10,Commercials Signed
+OP011,43547.30897,10,Commercials Signed
+OP011,43549.50134,11,Post Sales Support
+OP012,43454.6055,2,Meeting with Client
+OP012,43462.84509,3,Presented to Client
+OP012,43472.09786,4,Prepared Custom Demonstration
+OP012,43476.42495,4,Prepared Custom Demonstration
+OP012,43482.49092,5,Prepared POC
+OP012,43485.53953,7,Prepared RFP Responses
+OP012,43492.75828,7,Prepared RFP Responses
+OP012,43496.26314,8,Prepared Commercials
+OP012,43503.59647,10,Commercials Signed
+OP012,43507.57911,10,Commercials Signed
+OP012,43510.96522,11,Post Sales Support
+OP012,43515.52217,11,Post Sales Support
+OP013,43458.6055,2,Meeting with Client
+OP013,43461.11731,2,Meeting with Client
+OP013,43470.53675,5,Prepared POC
+OP013,43476.66384,5,Prepared POC
+OP013,43479.66661,6,Provided Pre-Sales Support
+OP013,43485.43814,7,Prepared RFP Responses
+OP013,43489.94856,8,Prepared Commercials
+OP013,43500.00897,8,Prepared Commercials
+OP013,43503.32634,9,Negotiation Meeting
+OP013,43504.5055,11,Post Sales Support
+OP013,43511.77772,11,Post Sales Support
+OP013,43521.8305,11,Post Sales Support
+OP014,43455.6055,1,Emailed Client
+OP014,43461.59022,1,Emailed Client
+OP014,43464.69161,3,Presented to Client
+OP014,43474.76314,3,Presented to Client
+OP014,43476.97703,6,Provided Pre-Sales Support
+OP014,43479.03536,6,Provided Pre-Sales Support
+OP014,43487.32634,6,Provided Pre-Sales Support
+OP014,43494.62772,7,Prepared RFP Responses
+OP014,43502.62911,8,Prepared Commercials
+OP014,43506.88189,8,Prepared Commercials
+OP014,43513.0937,10,Commercials Signed
+OP014,43515.28745,11,Post Sales Support
+OP014,43519.19995,11,Post Sales Support
+OP014,43524.26384,11,Post Sales Support
+OP015,43455.6055,1,Emailed Client
+OP015,43460.86314,1,Emailed Client
+OP015,43471.45203,3,Presented to Client
+OP015,43480.51245,3,Presented to Client
+OP015,43483.57286,4,Prepared Custom Demonstration
+OP015,43486.29022,6,Provided Pre-Sales Support
+OP015,43491.59717,6,Provided Pre-Sales Support
+OP015,43496.69022,7,Prepared RFP Responses
+OP015,43505.87217,7,Prepared RFP Responses
+OP015,43513.87911,7,Prepared RFP Responses
+OP015,43524.34022,7,Prepared RFP Responses
+OP015,43526.01175,9,Negotiation Meeting
+OP015,43530.17981,10,Commercials Signed
+OP015,43532.79925,11,Post Sales Support
+OP015,43543.5305,11,Post Sales Support
+OP016,43457.6055,1,Emailed Client
+OP016,43464.97772,1,Emailed Client
+OP016,43471.70828,2,Meeting with Client
+OP016,43478.46453,2,Meeting with Client
+OP016,43486.94092,2,Meeting with Client
+OP016,43488.72564,3,Presented to Client
+OP016,43498.23814,4,Prepared Custom Demonstration
+OP016,43500.88397,5,Prepared POC
+OP016,43503.24092,6,Provided Pre-Sales Support
+OP016,43507.79231,7,Prepared RFP Responses
+OP016,43518.13953,7,Prepared RFP Responses
+OP016,43521.0437,7,Prepared RFP Responses
+OP016,43530.54995,8,Prepared Commercials
+OP016,43533.61245,9,Negotiation Meeting
+OP016,43535.02009,9,Negotiation Meeting
+OP016,43541.95411,10,Commercials Signed
+OP016,43544.22009,10,Commercials Signed
+OP016,43554.39161,10,Commercials Signed
+OP016,43563.66245,11,Post Sales Support
+OP016,43571.75481,11,Post Sales Support
+OP017,43456.6055,1,Emailed Client
+OP017,43462.793,2,Meeting with Client
+OP017,43472.69578,3,Presented to Client
+OP017,43478.66384,4,Prepared Custom Demonstration
+OP017,43483.55203,5,Prepared POC
+OP017,43492.62981,5,Prepared POC
+OP017,43499.718,6,Provided Pre-Sales Support
+OP017,43505.5055,8,Prepared Commercials
+OP017,43508.19092,9,Negotiation Meeting
+OP017,43514.98814,10,Commercials Signed
+OP017,43522.92286,11,Post Sales Support
+OP018,43455.6055,1,Emailed Client
+OP018,43465.68467,1,Emailed Client
+OP018,43475.12147,4,Prepared Custom Demonstration
+OP018,43479.71384,4,Prepared Custom Demonstration
+OP018,43481.0305,5,Prepared POC
+OP018,43492.01731,5,Prepared POC
+OP018,43493.55342,5,Prepared POC
+OP018,43503.83536,5,Prepared POC
+OP018,43514.81036,6,Provided Pre-Sales Support
+OP018,43525.34161,6,Provided Pre-Sales Support
+OP018,43534.29509,6,Provided Pre-Sales Support
+OP018,43544.66731,6,Provided Pre-Sales Support
+OP018,43549.19647,7,Prepared RFP Responses
+OP018,43554.86522,7,Prepared RFP Responses
+OP018,43558.01106,7,Prepared RFP Responses
+OP018,43564.94786,7,Prepared RFP Responses
+OP018,43569.83675,9,Negotiation Meeting
+OP018,43579.4055,11,Post Sales Support
+OP018,43586.768,11,Post Sales Support
+OP019,43454.6055,2,Meeting with Client
+OP019,43456.02772,2,Meeting with Client
+OP019,43461.82842,2,Meeting with Client
+OP019,43467.26175,3,Presented to Client
+OP019,43470.76036,3,Presented to Client
+OP019,43478.12147,3,Presented to Client
+OP019,43487.72078,3,Presented to Client
+OP019,43494.54161,4,Prepared Custom Demonstration
+OP019,43496.22911,6,Provided Pre-Sales Support
+OP019,43501.72356,6,Provided Pre-Sales Support
+OP019,43504.64092,7,Prepared RFP Responses
+OP019,43506.73328,7,Prepared RFP Responses
+OP019,43517.03467,8,Prepared Commercials
+OP019,43524.34856,8,Prepared Commercials
+OP019,43533.7305,8,Prepared Commercials
+OP019,43538.82425,9,Negotiation Meeting
+OP019,43548.95342,10,Commercials Signed
+OP019,43558.43606,10,Commercials Signed
+OP019,43560.9812,11,Post Sales Support
+OP020,43455.6055,2,Meeting with Client
+OP020,43466.01453,2,Meeting with Client
+OP020,43469.62634,2,Meeting with Client
+OP020,43479.69786,3,Presented to Client
+OP020,43483.9812,3,Presented to Client
+OP020,43488.16106,4,Prepared Custom Demonstration
+OP020,43490.84647,4,Prepared Custom Demonstration
+OP020,43494.82147,4,Prepared Custom Demonstration
+OP020,43503.08259,6,Provided Pre-Sales Support
+OP020,43510.37634,7,Prepared RFP Responses
+OP020,43518.91661,9,Negotiation Meeting
+OP020,43522.39856,9,Negotiation Meeting
+OP020,43532.81661,10,Commercials Signed
+OP020,43535.03259,11,Post Sales Support
+OP020,43544.51453,11,Post Sales Support
+OP020,43553.76245,11,Post Sales Support
+OP021,43458.6055,2,Meeting with Client
+OP021,43467.35203,2,Meeting with Client
+OP021,43478.1687,3,Presented to Client
+OP021,43486.76175,4,Prepared Custom Demonstration
+OP021,43493.41939,5,Prepared POC
+OP021,43499.7437,5,Prepared POC
+OP021,43509.33814,6,Provided Pre-Sales Support
+OP021,43518.593,6,Provided Pre-Sales Support
+OP021,43520.79647,6,Provided Pre-Sales Support
+OP021,43524.05272,6,Provided Pre-Sales Support
+OP021,43533.19231,7,Prepared RFP Responses
+OP021,43538.22981,7,Prepared RFP Responses
+OP021,43543.19161,7,Prepared RFP Responses
+OP021,43547.16661,8,Prepared Commercials
+OP021,43548.71522,9,Negotiation Meeting
+OP021,43554.56453,9,Negotiation Meeting
+OP021,43562.66384,9,Negotiation Meeting
+OP021,43570.87495,11,Post Sales Support
+OP021,43574.81661,11,Post Sales Support
+OP022,43458.6055,2,Meeting with Client
+OP022,43459.74161,3,Presented to Client
+OP022,43465.92842,4,Prepared Custom Demonstration
+OP022,43474.98814,4,Prepared Custom Demonstration
+OP022,43477.3555,4,Prepared Custom Demonstration
+OP022,43479.09022,6,Provided Pre-Sales Support
+OP022,43489.05064,6,Provided Pre-Sales Support
+OP022,43497.82078,7,Prepared RFP Responses
+OP022,43499.2055,7,Prepared RFP Responses
+OP022,43501.62147,7,Prepared RFP Responses
+OP022,43504.02009,9,Negotiation Meeting
+OP022,43514.92634,10,Commercials Signed
+OP022,43518.31245,10,Commercials Signed
+OP022,43523.24995,11,Post Sales Support
+OP023,43456.6055,1,Emailed Client
+OP023,43467.4312,2,Meeting with Client
+OP023,43470.67564,2,Meeting with Client
+OP023,43479.91314,3,Presented to Client
+OP023,43490.43259,4,Prepared Custom Demonstration
+OP023,43493.85272,5,Prepared POC
+OP023,43503.25203,7,Prepared RFP Responses
+OP023,43511.92772,7,Prepared RFP Responses
+OP023,43521.71175,7,Prepared RFP Responses
+OP023,43529.28467,7,Prepared RFP Responses
+OP023,43536.60759,7,Prepared RFP Responses
+OP023,43547.39022,8,Prepared Commercials
+OP023,43553.293,10,Commercials Signed
+OP023,43554.38259,10,Commercials Signed
+OP023,43557.47495,11,Post Sales Support
+OP024,43458.6055,2,Meeting with Client
+OP024,43469.40134,2,Meeting with Client
+OP024,43471.66384,2,Meeting with Client
+OP024,43473.80134,3,Presented to Client
+OP024,43480.87147,3,Presented to Client
+OP024,43489.06384,4,Prepared Custom Demonstration
+OP024,43497.58397,4,Prepared Custom Demonstration
+OP024,43504.98606,5,Prepared POC
+OP024,43510.17078,5,Prepared POC
+OP024,43520.63536,6,Provided Pre-Sales Support
+OP024,43527.50064,6,Provided Pre-Sales Support
+OP024,43528.52009,6,Provided Pre-Sales Support
+OP024,43534.95481,8,Prepared Commercials
+OP024,43537.72564,9,Negotiation Meeting
+OP024,43548.72495,9,Negotiation Meeting
+OP024,43558.38745,10,Commercials Signed
+OP025,43458.6055,3,Presented to Client
+OP025,43460.0555,3,Presented to Client
+OP025,43461.11939,3,Presented to Client
+OP025,43471.36939,4,Prepared Custom Demonstration
+OP025,43473.53259,5,Prepared POC
+OP025,43478.97772,6,Provided Pre-Sales Support
+OP025,43481.10689,6,Provided Pre-Sales Support
+OP025,43488.07356,7,Prepared RFP Responses
+OP025,43496.04161,8,Prepared Commercials
+OP025,43497.5687,8,Prepared Commercials
+OP025,43500.09022,8,Prepared Commercials
+OP026,43458.6055,1,Emailed Client
+OP026,43465.56175,2,Meeting with Client
+OP026,43474.65272,2,Meeting with Client
+OP026,43476.50759,4,Prepared Custom Demonstration
+OP026,43478.73467,5,Prepared POC
+OP026,43486.81522,6,Provided Pre-Sales Support
+OP026,43488.42495,6,Provided Pre-Sales Support
+OP026,43493.82286,6,Provided Pre-Sales Support
+OP026,43502.38814,7,Prepared RFP Responses
+OP026,43508.81731,7,Prepared RFP Responses
+OP026,43517.24786,8,Prepared Commercials
+OP026,43518.71453,8,Prepared Commercials
+OP026,43529.10897,9,Negotiation Meeting
+OP026,43537.4305,10,Commercials Signed
+OP026,43541.53675,11,Post Sales Support
+OP026,43550.87286,11,Post Sales Support
+OP027,43454.6055,1,Emailed Client
+OP027,43461.39161,1,Emailed Client
+OP027,43464.70759,1,Emailed Client
+OP027,43472.87009,3,Presented to Client
+OP027,43479.33328,4,Prepared Custom Demonstration
+OP027,43488.82634,5,Prepared POC
+OP027,43496.88606,5,Prepared POC
+OP027,43498.7187,6,Provided Pre-Sales Support
+OP027,43505.84092,6,Provided Pre-Sales Support
+OP027,43506.87009,6,Provided Pre-Sales Support
+OP027,43509.70411,7,Prepared RFP Responses
+OP027,43514.71314,7,Prepared RFP Responses
+OP027,43516.84995,8,Prepared Commercials
+OP027,43526.65689,9,Negotiation Meeting
+OP027,43535.22842,9,Negotiation Meeting
+OP027,43544.06036,9,Negotiation Meeting
+OP027,43549.10481,10,Commercials Signed
+OP027,43554.85759,10,Commercials Signed
+OP027,43557.54092,10,Commercials Signed
+OP027,43558.71175,10,Commercials Signed
+OP027,43563.07703,11,Post Sales Support
+OP028,43456.6055,1,Emailed Client
+OP028,43462.66592,2,Meeting with Client
+OP028,43469.38606,3,Presented to Client
+OP028,43479.22564,4,Prepared Custom Demonstration
+OP028,43484.28675,5,Prepared POC
+OP028,43491.79995,5,Prepared POC
+OP028,43493.3437,5,Prepared POC
+OP028,43495.11036,5,Prepared POC
+OP028,43497.15759,7,Prepared RFP Responses
+OP028,43501.47842,7,Prepared RFP Responses
+OP028,43507.69856,8,Prepared Commercials
+OP028,43512.94995,9,Negotiation Meeting
+OP028,43517.26731,9,Negotiation Meeting
+OP028,43525.87981,10,Commercials Signed
+OP028,43529.1187,11,Post Sales Support
+OP029,43456.6055,1,Emailed Client
+OP029,43465.96939,2,Meeting with Client
+OP029,43476.66106,3,Presented to Client
+OP029,43479.96245,5,Prepared POC
+OP029,43481.85411,5,Prepared POC
+OP029,43485.95481,5,Prepared POC
+OP029,43493.46384,7,Prepared RFP Responses
+OP029,43501.24578,7,Prepared RFP Responses
+OP029,43505.98606,8,Prepared Commercials
+OP029,43508.12425,8,Prepared Commercials
+OP029,43519.11592,9,Negotiation Meeting
+OP029,43525.3055,9,Negotiation Meeting
+OP029,43527.55689,9,Negotiation Meeting
+OP029,43537.39161,10,Commercials Signed
+OP029,43540.68397,10,Commercials Signed
+OP029,43543.70967,10,Commercials Signed
+OP030,43457.6055,1,Emailed Client
+OP030,43464.62981,1,Emailed Client
+OP030,43473.30411,2,Meeting with Client
+OP030,43475.61661,2,Meeting with Client
+OP030,43483.98467,2,Meeting with Client
+OP030,43485.40134,3,Presented to Client
+OP030,43493.51384,3,Presented to Client
+OP030,43497.80689,3,Presented to Client
+OP030,43505.77217,3,Presented to Client
+OP030,43513.18397,4,Prepared Custom Demonstration
+OP030,43522.63953,4,Prepared Custom Demonstration
+OP030,43524.0687,5,Prepared POC
+OP030,43532.57425,5,Prepared POC
+OP030,43534.53606,5,Prepared POC
+OP030,43538.70759,7,Prepared RFP Responses
+OP030,43546.13189,9,Negotiation Meeting
+OP030,43549.37009,9,Negotiation Meeting
+OP030,43556.27217,9,Negotiation Meeting
+OP030,43563.56384,10,Commercials Signed
+OP030,43567.93745,10,Commercials Signed
+OP031,43457.6055,1,Emailed Client
+OP031,43467.74647,1,Emailed Client
+OP031,43477.27147,1,Emailed Client
+OP031,43484.52772,2,Meeting with Client
+OP031,43494.22772,4,Prepared Custom Demonstration
+OP031,43502.39161,6,Provided Pre-Sales Support
+OP031,43512.91939,8,Prepared Commercials
+OP031,43520.44022,8,Prepared Commercials
+OP031,43531.4312,9,Negotiation Meeting
+OP031,43536.87564,9,Negotiation Meeting
+OP031,43540.34856,11,Post Sales Support
+OP032,43455.6055,1,Emailed Client
+OP032,43459.41106,2,Meeting with Client
+OP032,43468.71314,2,Meeting with Client
+OP032,43474.02564,2,Meeting with Client
+OP032,43482.62495,3,Presented to Client
+OP032,43485.27147,3,Presented to Client
+OP032,43489.34647,3,Presented to Client
+OP032,43498.81106,3,Presented to Client
+OP032,43506.17217,4,Prepared Custom Demonstration
+OP032,43507.52286,4,Prepared Custom Demonstration
+OP032,43510.71731,5,Prepared POC
+OP032,43519.17842,5,Prepared POC
+OP032,43528.51036,5,Prepared POC
+OP032,43536.20967,8,Prepared Commercials
+OP032,43545.05134,8,Prepared Commercials
+OP032,43551.58259,8,Prepared Commercials
+OP032,43561.45064,11,Post Sales Support
+OP033,43458.6055,3,Presented to Client
+OP033,43462.72495,4,Prepared Custom Demonstration
+OP033,43465.26522,4,Prepared Custom Demonstration
+OP033,43474.418,5,Prepared POC
+OP033,43479.5805,5,Prepared POC
+OP033,43482.39647,7,Prepared RFP Responses
+OP033,43484.0555,8,Prepared Commercials
+OP033,43490.00203,8,Prepared Commercials
+OP033,43497.75759,9,Negotiation Meeting
+OP033,43508.14786,9,Negotiation Meeting
+OP033,43509.75342,9,Negotiation Meeting
+OP033,43514.9562,9,Negotiation Meeting
+OP033,43523.94995,10,Commercials Signed
+OP033,43525.08536,10,Commercials Signed
+OP033,43532.39439,11,Post Sales Support
+OP034,43457.6055,1,Emailed Client
+OP034,43463.06453,2,Meeting with Client
+OP034,43469.59925,3,Presented to Client
+OP034,43474.36314,5,Prepared POC
+OP034,43479.83884,6,Provided Pre-Sales Support
+OP034,43487.94509,8,Prepared Commercials
+OP034,43491.35481,8,Prepared Commercials
+OP034,43499.82356,10,Commercials Signed
+OP035,43454.6055,1,Emailed Client
+OP035,43459.95967,2,Meeting with Client
+OP035,43467.37217,3,Presented to Client
+OP035,43471.04856,3,Presented to Client
+OP035,43473.17009,5,Prepared POC
+OP035,43475.45897,6,Provided Pre-Sales Support
+OP035,43484.91245,6,Provided Pre-Sales Support
+OP035,43487.16036,9,Negotiation Meeting
+OP035,43492.31661,9,Negotiation Meeting
+OP035,43498.2937,10,Commercials Signed
+OP035,43504.45967,10,Commercials Signed
+OP035,43511.90342,11,Post Sales Support
+OP036,43458.6055,1,Emailed Client
+OP036,43464.72286,2,Meeting with Client
+OP036,43472.85064,3,Presented to Client
+OP036,43476.24856,3,Presented to Client
+OP036,43487.16175,6,Provided Pre-Sales Support
+OP036,43493.48606,6,Provided Pre-Sales Support
+OP036,43495.88675,6,Provided Pre-Sales Support
+OP036,43500.17078,10,Commercials Signed
+OP037,43454.6055,1,Emailed Client
+OP037,43461.99786,1,Emailed Client
+OP037,43466.41661,2,Meeting with Client
+OP037,43472.33953,4,Prepared Custom Demonstration
+OP037,43476.62009,5,Prepared POC
+OP037,43482.47425,6,Provided Pre-Sales Support
+OP037,43484.56175,7,Prepared RFP Responses
+OP037,43490.15342,7,Prepared RFP Responses
+OP037,43496.96175,8,Prepared Commercials
+OP037,43503.7187,8,Prepared Commercials
+OP037,43509.92842,9,Negotiation Meeting
+OP037,43517.32842,9,Negotiation Meeting
+OP037,43519.743,10,Commercials Signed
+OP037,43522.41106,11,Post Sales Support
+OP037,43533.11384,11,Post Sales Support
+OP037,43535.62634,11,Post Sales Support
+OP038,43455.6055,1,Emailed Client
+OP038,43465.52703,1,Emailed Client
+OP038,43475.17078,1,Emailed Client
+OP038,43483.90759,3,Presented to Client
+OP038,43493.06245,3,Presented to Client
+OP038,43494.45481,3,Presented to Client
+OP038,43497.74786,4,Prepared Custom Demonstration
+OP038,43507.55689,5,Prepared POC
+OP038,43514.13397,6,Provided Pre-Sales Support
+OP038,43518.60481,7,Prepared RFP Responses
+OP038,43522.38259,8,Prepared Commercials
+OP038,43529.26106,8,Prepared Commercials
+OP038,43536.63259,8,Prepared Commercials
+OP038,43543.67842,9,Negotiation Meeting
+OP038,43545.70411,10,Commercials Signed
+OP038,43551.52009,10,Commercials Signed
+OP038,43562.38884,10,Commercials Signed
+OP038,43566.53397,11,Post Sales Support
+OP039,43457.6055,1,Emailed Client
+OP039,43460.25828,1,Emailed Client
+OP039,43468.50481,2,Meeting with Client
+OP039,43475.73536,3,Presented to Client
+OP039,43477.05411,3,Presented to Client
+OP039,43482.1812,3,Presented to Client
+OP039,43491.22911,4,Prepared Custom Demonstration
+OP039,43498.0305,4,Prepared Custom Demonstration
+OP039,43503.91522,4,Prepared Custom Demonstration
+OP039,43513.63953,5,Prepared POC
+OP039,43516.39995,5,Prepared POC
+OP039,43524.34856,6,Provided Pre-Sales Support
+OP039,43529.2562,8,Prepared Commercials
+OP039,43531.40689,9,Negotiation Meeting
+OP039,43539.28884,11,Post Sales Support
+OP040,43455.6055,2,Meeting with Client
+OP040,43461.36314,2,Meeting with Client
+OP040,43471.04995,4,Prepared Custom Demonstration
+OP040,43474.15411,4,Prepared Custom Demonstration
+OP040,43480.89022,4,Prepared Custom Demonstration
+OP040,43487.67911,5,Prepared POC
+OP040,43489.83953,6,Provided Pre-Sales Support
+OP040,43498.79161,6,Provided Pre-Sales Support
+OP040,43502.6187,7,Prepared RFP Responses
+OP040,43503.6555,7,Prepared RFP Responses
+OP040,43511.31106,8,Prepared Commercials
+OP040,43513.91106,10,Commercials Signed
+OP040,43521.17703,11,Post Sales Support
+OP040,43523.23189,11,Post Sales Support
+OP041,43457.6055,1,Emailed Client
+OP041,43459.60203,1,Emailed Client
+OP041,43466.76522,2,Meeting with Client
+OP041,43468.96661,4,Prepared Custom Demonstration
+OP041,43477.05828,6,Provided Pre-Sales Support
+OP041,43479.81939,7,Prepared RFP Responses
+OP041,43484.38328,7,Prepared RFP Responses
+OP041,43485.4305,7,Prepared RFP Responses
+OP041,43496.29022,8,Prepared Commercials
+OP041,43504.34786,10,Commercials Signed
+OP041,43509.64856,10,Commercials Signed
+OP041,43515.18259,11,Post Sales Support
+OP042,43458.6055,2,Meeting with Client
+OP042,43466.84578,3,Presented to Client
+OP042,43474.23953,5,Prepared POC
+OP042,43478.71592,5,Prepared POC
+OP042,43480.73675,6,Provided Pre-Sales Support
+OP042,43486.9687,7,Prepared RFP Responses
+OP042,43494.49995,7,Prepared RFP Responses
+OP042,43500.93675,7,Prepared RFP Responses
+OP042,43506.78745,7,Prepared RFP Responses
+OP042,43510.518,8,Prepared Commercials
+OP042,43516.918,8,Prepared Commercials
+OP042,43526.59161,8,Prepared Commercials
+OP042,43528.58884,8,Prepared Commercials
+OP042,43536.65759,9,Negotiation Meeting
+OP042,43544.15272,11,Post Sales Support
+OP043,43454.6055,3,Presented to Client
+OP043,43456.7687,4,Prepared Custom Demonstration
+OP043,43465.91939,4,Prepared Custom Demonstration
+OP043,43476.41731,4,Prepared Custom Demonstration
+OP043,43485.01661,5,Prepared POC
+OP043,43488.89717,7,Prepared RFP Responses
+OP043,43496.83675,8,Prepared Commercials
+OP043,43507.2555,10,Commercials Signed
+OP044,43455.6055,2,Meeting with Client
+OP044,43465.13328,3,Presented to Client
+OP044,43466.32495,3,Presented to Client
+OP044,43469.28397,4,Prepared Custom Demonstration
+OP044,43473.40411,4,Prepared Custom Demonstration
+OP044,43481.93259,5,Prepared POC
+OP044,43484.84578,7,Prepared RFP Responses
+OP044,43487.21522,8,Prepared Commercials
+OP044,43497.16036,10,Commercials Signed
+OP044,43500.43259,10,Commercials Signed
+OP044,43510.42356,10,Commercials Signed
+OP044,43515.08259,11,Post Sales Support
+OP045,43455.6055,1,Emailed Client
+OP045,43465.33606,2,Meeting with Client
+OP045,43475.26384,2,Meeting with Client
+OP045,43482.12981,3,Presented to Client
+OP045,43490.3187,4,Prepared Custom Demonstration
+OP045,43495.41661,5,Prepared POC
+OP045,43501.57564,7,Prepared RFP Responses
+OP045,43505.04439,7,Prepared RFP Responses
+OP045,43515.07842,7,Prepared RFP Responses
+OP045,43525.57772,9,Negotiation Meeting
+OP045,43528.14717,9,Negotiation Meeting
+OP045,43530.02147,10,Commercials Signed
+OP045,43533.09995,10,Commercials Signed
+OP045,43534.21592,11,Post Sales Support
+OP045,43539.6687,11,Post Sales Support
+OP046,43457.6055,1,Emailed Client
+OP046,43464.11592,1,Emailed Client
+OP046,43473.6555,1,Emailed Client
+OP046,43481.03536,2,Meeting with Client
+OP046,43491.068,2,Meeting with Client
+OP046,43493.318,3,Presented to Client
+OP046,43498.74022,3,Presented to Client
+OP046,43501.98397,3,Presented to Client
+OP046,43509.28745,4,Prepared Custom Demonstration
+OP046,43516.40828,4,Prepared Custom Demonstration
+OP046,43526.7062,5,Prepared POC
+OP046,43533.93745,5,Prepared POC
+OP046,43541.27009,6,Provided Pre-Sales Support
+OP046,43548.07425,8,Prepared Commercials
+OP046,43554.30689,10,Commercials Signed
+OP047,43457.6055,1,Emailed Client
+OP047,43464.60689,2,Meeting with Client
+OP047,43470.90064,2,Meeting with Client
+OP047,43477.88259,3,Presented to Client
+OP047,43487.45411,4,Prepared Custom Demonstration
+OP047,43495.04717,5,Prepared POC
+OP047,43500.95134,5,Prepared POC
+OP047,43507.00203,5,Prepared POC
+OP047,43516.50342,6,Provided Pre-Sales Support
+OP047,43519.87147,6,Provided Pre-Sales Support
+OP047,43523.40897,6,Provided Pre-Sales Support
+OP047,43528.92425,7,Prepared RFP Responses
+OP047,43536.91731,8,Prepared Commercials
+OP047,43544.47217,8,Prepared Commercials
+OP047,43552.74161,8,Prepared Commercials
+OP047,43559.62217,10,Commercials Signed
+OP047,43563.50064,10,Commercials Signed
+OP047,43571.92564,10,Commercials Signed
+OP047,43578.65759,11,Post Sales Support
+OP048,43454.6055,1,Emailed Client
+OP048,43462.89092,1,Emailed Client
+OP048,43469.69092,1,Emailed Client
+OP048,43476.81314,2,Meeting with Client
+OP048,43486.37634,5,Prepared POC
+OP048,43490.29578,5,Prepared POC
+OP048,43499.37634,5,Prepared POC
+OP048,43509.55759,5,Prepared POC
+OP048,43512.89856,6,Provided Pre-Sales Support
+OP048,43521.26384,7,Prepared RFP Responses
+OP048,43523.268,8,Prepared Commercials
+OP048,43530.47078,9,Negotiation Meeting
+OP048,43536.38953,10,Commercials Signed
+OP049,43457.6055,1,Emailed Client
+OP049,43462.14439,3,Presented to Client
+OP049,43466.72772,4,Prepared Custom Demonstration
+OP049,43472.22009,4,Prepared Custom Demonstration
+OP049,43479.32078,6,Provided Pre-Sales Support
+OP049,43488.59161,6,Provided Pre-Sales Support
+OP049,43494.77634,7,Prepared RFP Responses
+OP049,43505.193,8,Prepared Commercials
+OP049,43507.90272,9,Negotiation Meeting
+OP049,43509.193,11,Post Sales Support
+OP049,43513.64231,11,Post Sales Support
+OP050,43456.6055,3,Presented to Client
+OP050,43465.30967,4,Prepared Custom Demonstration
+OP050,43470.8562,5,Prepared POC
+OP050,43477.96522,7,Prepared RFP Responses
+OP050,43484.37009,7,Prepared RFP Responses
+OP050,43487.64092,7,Prepared RFP Responses
+OP050,43497.43467,8,Prepared Commercials
+OP050,43503.60411,9,Negotiation Meeting
+OP050,43511.90689,10,Commercials Signed
+OP050,43522.34439,10,Commercials Signed
+OP050,43530.22217,11,Post Sales Support
+OP050,43536.74995,11,Post Sales Support
+OP050,43544.3562,11,Post Sales Support
+OP051,43456.6055,1,Emailed Client
+OP051,43464.74439,2,Meeting with Client
+OP051,43473.38397,2,Meeting with Client
+OP051,43478.71175,5,Prepared POC
+OP051,43480.09161,5,Prepared POC
+OP051,43485.49439,5,Prepared POC
+OP051,43490.65759,6,Provided Pre-Sales Support
+OP051,43491.68536,6,Provided Pre-Sales Support
+OP051,43502.22634,6,Provided Pre-Sales Support
+OP051,43504.59022,9,Negotiation Meeting
+OP051,43506.0437,9,Negotiation Meeting
+OP051,43507.52147,11,Post Sales Support
+OP052,43455.6055,1,Emailed Client
+OP052,43462.96731,1,Emailed Client
+OP052,43464.47356,2,Meeting with Client
+OP052,43469.94092,2,Meeting with Client
+OP052,43474.45967,3,Presented to Client
+OP052,43476.86245,4,Prepared Custom Demonstration
+OP052,43482.43884,4,Prepared Custom Demonstration
+OP052,43491.83467,5,Prepared POC
+OP052,43498.63884,6,Provided Pre-Sales Support
+OP052,43507.86939,6,Provided Pre-Sales Support
+OP052,43518.55897,6,Provided Pre-Sales Support
+OP052,43524.86939,7,Prepared RFP Responses
+OP052,43532.07842,9,Negotiation Meeting
+OP052,43538.41939,9,Negotiation Meeting
+OP052,43544.43467,10,Commercials Signed
+OP052,43554.27564,11,Post Sales Support
+OP053,43454.6055,1,Emailed Client
+OP053,43459.02564,3,Presented to Client
+OP053,43464.10203,3,Presented to Client
+OP053,43470.76106,3,Presented to Client
+OP053,43472.82564,3,Presented to Client
+OP053,43474.60759,3,Presented to Client
+OP053,43478.38745,4,Prepared Custom Demonstration
+OP053,43487.27425,4,Prepared Custom Demonstration
+OP053,43492.6187,4,Prepared Custom Demonstration
+OP053,43502.6555,4,Prepared Custom Demonstration
+OP053,43505.83259,4,Prepared Custom Demonstration
+OP053,43512.60134,5,Prepared POC
+OP053,43521.71522,6,Provided Pre-Sales Support
+OP053,43528.72147,7,Prepared RFP Responses
+OP053,43530.50342,8,Prepared Commercials
+OP053,43539.3305,9,Negotiation Meeting
+OP053,43544.27009,9,Negotiation Meeting
+OP053,43549.12911,10,Commercials Signed
+OP053,43559.91384,11,Post Sales Support
+OP054,43455.6055,1,Emailed Client
+OP054,43462.03467,3,Presented to Client
+OP054,43466.7687,4,Prepared Custom Demonstration
+OP054,43470.05064,5,Prepared POC
+OP054,43477.14161,5,Prepared POC
+OP054,43481.94022,7,Prepared RFP Responses
+OP054,43483.34995,8,Prepared Commercials
+OP054,43486.5062,8,Prepared Commercials
+OP054,43490.46036,9,Negotiation Meeting
+OP054,43498.98259,10,Commercials Signed
+OP054,43500.21592,10,Commercials Signed
+OP054,43502.65342,10,Commercials Signed
+OP054,43512.12078,10,Commercials Signed
+OP054,43522.7055,10,Commercials Signed
+OP055,43456.6055,1,Emailed Client
+OP055,43458.82911,1,Emailed Client
+OP055,43469.33259,1,Emailed Client
+OP055,43471.82564,3,Presented to Client
+OP055,43473.35134,3,Presented to Client
+OP055,43476.43536,4,Prepared Custom Demonstration
+OP055,43480.72356,4,Prepared Custom Demonstration
+OP055,43489.58884,4,Prepared Custom Demonstration
+OP055,43492.55411,4,Prepared Custom Demonstration
+OP055,43494.8812,5,Prepared POC
+OP055,43505.27911,5,Prepared POC
+OP055,43515.36939,5,Prepared POC
+OP055,43519.44856,5,Prepared POC
+OP055,43526.28328,5,Prepared POC
+OP055,43527.70272,8,Prepared Commercials
+OP055,43535.6062,10,Commercials Signed
+OP055,43543.99995,10,Commercials Signed
+OP056,43455.6055,1,Emailed Client
+OP056,43460.81661,1,Emailed Client
+OP056,43467.73536,2,Meeting with Client
+OP056,43475.67286,2,Meeting with Client
+OP056,43485.47009,3,Presented to Client
+OP056,43491.7187,6,Provided Pre-Sales Support
+OP056,43496.5055,7,Prepared RFP Responses
+OP056,43505.53745,7,Prepared RFP Responses
+OP056,43513.06314,8,Prepared Commercials
+OP056,43520.39578,8,Prepared Commercials
+OP056,43524.75411,10,Commercials Signed
+OP056,43529.87772,11,Post Sales Support
+OP056,43531.25897,11,Post Sales Support
+OP057,43458.6055,1,Emailed Client
+OP057,43460.81245,1,Emailed Client
+OP057,43470.40689,3,Presented to Client
+OP057,43480.74439,5,Prepared POC
+OP057,43490.89022,6,Provided Pre-Sales Support
+OP057,43497.74925,7,Prepared RFP Responses
+OP057,43500.52078,7,Prepared RFP Responses
+OP057,43511.43675,8,Prepared Commercials
+OP057,43517.0305,9,Negotiation Meeting
+OP057,43527.77147,10,Commercials Signed
+OP057,43533.65272,11,Post Sales Support
+OP057,43535.72634,11,Post Sales Support
+OP058,43458.6055,1,Emailed Client
+OP058,43469.56592,1,Emailed Client
+OP058,43472.86314,3,Presented to Client
+OP058,43478.4937,3,Presented to Client
+OP058,43484.76453,3,Presented to Client
+OP058,43495.07286,4,Prepared Custom Demonstration
+OP058,43500.27911,5,Prepared POC
+OP058,43508.44439,6,Provided Pre-Sales Support
+OP058,43511.33675,6,Provided Pre-Sales Support
+OP058,43512.78884,6,Provided Pre-Sales Support
+OP058,43516.49856,8,Prepared Commercials
+OP058,43526.8055,8,Prepared Commercials
+OP058,43532.94509,10,Commercials Signed
+OP058,43543.61592,10,Commercials Signed
+OP058,43548.77078,10,Commercials Signed
+OP058,43552.50481,10,Commercials Signed
+OP058,43562.30272,11,Post Sales Support
+OP058,43568.63189,11,Post Sales Support
+OP058,43572.30689,11,Post Sales Support
+OP059,43458.6055,5,Prepared POC
+OP059,43463.61245,5,Prepared POC
+OP059,43473.07703,5,Prepared POC
+OP059,43476.60828,7,Prepared RFP Responses
+OP059,43479.93467,7,Prepared RFP Responses
+OP059,43488.0055,8,Prepared Commercials
+OP059,43496.10064,8,Prepared Commercials
+OP059,43506.33397,9,Negotiation Meeting
+OP059,43511.58189,10,Commercials Signed
+OP059,43513.31453,10,Commercials Signed
+OP059,43521.76245,11,Post Sales Support
+OP059,43530.168,11,Post Sales Support
+OP059,43540.28397,11,Post Sales Support
+OP059,43549.15272,11,Post Sales Support
+OP060,43456.6055,2,Meeting with Client
+OP060,43458.66939,2,Meeting with Client
+OP060,43461.98953,3,Presented to Client
+OP060,43465.33606,3,Presented to Client
+OP060,43473.4305,7,Prepared RFP Responses
+OP060,43484.28675,8,Prepared Commercials
+OP060,43494.31175,9,Negotiation Meeting
+OP060,43503.44439,11,Post Sales Support
+OP060,43509.9562,11,Post Sales Support
+OP060,43520.72425,11,Post Sales Support
+OP060,43528.6312,11,Post Sales Support
+OP061,43457.6055,1,Emailed Client
+OP061,43458.6812,1,Emailed Client
+OP061,43466.33189,1,Emailed Client
+OP061,43467.39995,2,Meeting with Client
+OP061,43475.19925,2,Meeting with Client
+OP061,43485.27495,2,Meeting with Client
+OP061,43494.1312,5,Prepared POC
+OP061,43501.65064,7,Prepared RFP Responses
+OP061,43507.74231,8,Prepared Commercials
+OP061,43510.38606,8,Prepared Commercials
+OP061,43513.4687,9,Negotiation Meeting
+OP061,43520.90064,11,Post Sales Support
+OP062,43455.6055,1,Emailed Client
+OP062,43465.49856,1,Emailed Client
+OP062,43468.05967,2,Meeting with Client
+OP062,43472.71731,3,Presented to Client
+OP062,43479.64925,3,Presented to Client
+OP062,43486.85134,5,Prepared POC
+OP062,43495.98467,7,Prepared RFP Responses
+OP062,43499.28259,7,Prepared RFP Responses
+OP062,43509.58884,7,Prepared RFP Responses
+OP062,43513.00759,7,Prepared RFP Responses
+OP062,43519.14439,8,Prepared Commercials
+OP062,43524.22078,8,Prepared Commercials
+OP062,43531.57495,8,Prepared Commercials
+OP062,43534.00203,10,Commercials Signed
+OP062,43535.28745,11,Post Sales Support
+OP063,43456.6055,1,Emailed Client
+OP063,43457.75967,1,Emailed Client
+OP063,43468.44509,1,Emailed Client
+OP063,43473.93397,2,Meeting with Client
+OP063,43482.7312,2,Meeting with Client
+OP063,43489.00134,3,Presented to Client
+OP063,43498.2562,4,Prepared Custom Demonstration
+OP063,43506.68675,4,Prepared Custom Demonstration
+OP063,43508.33953,5,Prepared POC
+OP063,43517.42634,5,Prepared POC
+OP063,43523.69995,6,Provided Pre-Sales Support
+OP063,43529.11592,6,Provided Pre-Sales Support
+OP063,43538.55967,6,Provided Pre-Sales Support
+OP063,43546.01036,7,Prepared RFP Responses
+OP063,43551.28536,8,Prepared Commercials
+OP063,43560.47147,9,Negotiation Meeting
+OP063,43562.7187,9,Negotiation Meeting
+OP063,43564.24925,11,Post Sales Support
+OP063,43572.89925,11,Post Sales Support
+OP063,43577.87217,11,Post Sales Support
+OP063,43580.1187,11,Post Sales Support
+OP064,43454.6055,1,Emailed Client
+OP064,43458.01245,1,Emailed Client
+OP064,43467.48884,2,Meeting with Client
+OP064,43476.47634,4,Prepared Custom Demonstration
+OP064,43487.4055,4,Prepared Custom Demonstration
+OP064,43491.0937,4,Prepared Custom Demonstration
+OP064,43501.36453,4,Prepared Custom Demonstration
+OP064,43510.46939,5,Prepared POC
+OP064,43520.99995,5,Prepared POC
+OP064,43524.4562,6,Provided Pre-Sales Support
+OP064,43525.91106,7,Prepared RFP Responses
+OP064,43529.48467,8,Prepared Commercials
+OP064,43531.418,8,Prepared Commercials
+OP064,43540.35272,8,Prepared Commercials
+OP064,43549.14092,9,Negotiation Meeting
+OP064,43553.23675,9,Negotiation Meeting
+OP064,43562.48397,11,Post Sales Support
+OP064,43569.71384,11,Post Sales Support
+OP065,43454.6055,1,Emailed Client
+OP065,43462.06661,1,Emailed Client
+OP065,43467.54231,5,Prepared POC
+OP065,43473.40967,6,Provided Pre-Sales Support
+OP065,43481.64925,7,Prepared RFP Responses
+OP065,43485.74022,8,Prepared Commercials
+OP065,43487.62078,10,Commercials Signed
+OP065,43496.33606,11,Post Sales Support
+OP065,43499.42425,11,Post Sales Support
+OP065,43506.36245,11,Post Sales Support
+OP066,43455.6055,1,Emailed Client
+OP066,43461.95828,1,Emailed Client
+OP066,43467.34647,2,Meeting with Client
+OP066,43477.82703,3,Presented to Client
+OP066,43488.17217,4,Prepared Custom Demonstration
+OP066,43492.23675,4,Prepared Custom Demonstration
+OP066,43493.29022,5,Prepared POC
+OP066,43501.80897,5,Prepared POC
+OP066,43508.88745,6,Provided Pre-Sales Support
+OP066,43517.30481,8,Prepared Commercials
+OP066,43527.46384,8,Prepared Commercials
+OP066,43536.69717,8,Prepared Commercials
+OP066,43540.97495,9,Negotiation Meeting
+OP066,43544.73745,10,Commercials Signed
+OP066,43551.27286,10,Commercials Signed
+OP066,43552.61522,10,Commercials Signed
+OP066,43557.02981,10,Commercials Signed
+OP066,43565.8187,10,Commercials Signed
+OP066,43570.16106,11,Post Sales Support
+OP067,43458.6055,2,Meeting with Client
+OP067,43459.75967,3,Presented to Client
+OP067,43465.79578,3,Presented to Client
+OP067,43473.91106,3,Presented to Client
+OP067,43483.6062,3,Presented to Client
+OP067,43488.09856,4,Prepared Custom Demonstration
+OP067,43494.6555,4,Prepared Custom Demonstration
+OP067,43499.15967,4,Prepared Custom Demonstration
+OP067,43506.34786,4,Prepared Custom Demonstration
+OP067,43513.45134,5,Prepared POC
+OP067,43518.77495,5,Prepared POC
+OP067,43525.20411,6,Provided Pre-Sales Support
+OP067,43532.61939,6,Provided Pre-Sales Support
+OP067,43537.1055,8,Prepared Commercials
+OP067,43540.71661,8,Prepared Commercials
+OP067,43541.94578,9,Negotiation Meeting
+OP067,43552.29161,9,Negotiation Meeting
+OP067,43557.19717,9,Negotiation Meeting
+OP067,43562.76939,11,Post Sales Support
+OP067,43573.02009,11,Post Sales Support
+OP067,43574.57772,11,Post Sales Support
+OP067,43576.92217,11,Post Sales Support
+OP068,43455.6055,1,Emailed Client
+OP068,43461.81314,1,Emailed Client
+OP068,43463.15064,1,Emailed Client
+OP068,43467.57356,2,Meeting with Client
+OP068,43469.5937,4,Prepared Custom Demonstration
+OP068,43472.61522,4,Prepared Custom Demonstration
+OP068,43482.37495,5,Prepared POC
+OP068,43489.70828,5,Prepared POC
+OP068,43494.25411,7,Prepared RFP Responses
+OP068,43502.61661,8,Prepared Commercials
+OP068,43506.21106,8,Prepared Commercials
+OP068,43515.30342,9,Negotiation Meeting
+OP068,43522.85967,9,Negotiation Meeting
+OP068,43530.33397,10,Commercials Signed
+OP068,43539.24717,10,Commercials Signed
+OP068,43547.71175,10,Commercials Signed
+OP068,43551.31731,11,Post Sales Support
+OP069,43455.6055,2,Meeting with Client
+OP069,43458.78467,3,Presented to Client
+OP069,43461.37078,3,Presented to Client
+OP069,43467.43814,3,Presented to Client
+OP069,43468.77634,4,Prepared Custom Demonstration
+OP069,43475.83397,6,Provided Pre-Sales Support
+OP069,43484.66106,8,Prepared Commercials
+OP069,43491.75828,8,Prepared Commercials
+OP069,43495.50342,9,Negotiation Meeting
+OP069,43504.60689,9,Negotiation Meeting
+OP069,43510.45828,9,Negotiation Meeting
+OP069,43520.38884,10,Commercials Signed
+OP069,43528.42703,11,Post Sales Support
+OP070,43454.6055,1,Emailed Client
+OP070,43462.143,1,Emailed Client
+OP070,43465.42634,2,Meeting with Client
+OP070,43470.0687,2,Meeting with Client
+OP070,43477.57634,4,Prepared Custom Demonstration
+OP070,43480.63397,4,Prepared Custom Demonstration
+OP070,43487.81939,5,Prepared POC
+OP070,43489.32009,7,Prepared RFP Responses
+OP070,43497.19786,8,Prepared Commercials
+OP070,43507.36522,9,Negotiation Meeting
+OP070,43511.24925,10,Commercials Signed
+OP070,43519.39786,10,Commercials Signed
+OP070,43521.65481,11,Post Sales Support
+OP070,43530.85759,11,Post Sales Support
+OP070,43540.98745,11,Post Sales Support
+OP071,43457.6055,2,Meeting with Client
+OP071,43463.64995,2,Meeting with Client
+OP071,43466.56314,3,Presented to Client
+OP071,43472.34717,3,Presented to Client
+OP071,43478.17981,4,Prepared Custom Demonstration
+OP071,43485.89995,4,Prepared Custom Demonstration
+OP071,43491.64786,5,Prepared POC
+OP071,43492.96731,7,Prepared RFP Responses
+OP071,43499.90342,7,Prepared RFP Responses
+OP071,43506.19509,7,Prepared RFP Responses
+OP071,43508.12009,7,Prepared RFP Responses
+OP071,43510.26384,7,Prepared RFP Responses
+OP071,43511.62564,9,Negotiation Meeting
+OP071,43520.94995,9,Negotiation Meeting
+OP071,43523.38814,10,Commercials Signed
+OP071,43533.143,11,Post Sales Support
+OP071,43540.92495,11,Post Sales Support
+OP072,43454.6055,1,Emailed Client
+OP072,43464.57495,1,Emailed Client
+OP072,43474.87772,2,Meeting with Client
+OP072,43478.33259,2,Meeting with Client
+OP072,43488.5305,2,Meeting with Client
+OP072,43496.03189,5,Prepared POC
+OP072,43497.21036,6,Provided Pre-Sales Support
+OP072,43503.65897,7,Prepared RFP Responses
+OP072,43512.4312,7,Prepared RFP Responses
+OP072,43515.94925,9,Negotiation Meeting
+OP072,43525.30342,10,Commercials Signed
+OP073,43454.6055,1,Emailed Client
+OP073,43459.72147,1,Emailed Client
+OP073,43468.73397,2,Meeting with Client
+OP073,43470.83953,2,Meeting with Client
+OP073,43473.32009,3,Presented to Client
+OP073,43475.64161,4,Prepared Custom Demonstration
+OP073,43477.35134,5,Prepared POC
+OP073,43481.89439,5,Prepared POC
+OP073,43492.58884,5,Prepared POC
+OP073,43496.27981,6,Provided Pre-Sales Support
+OP073,43503.42564,7,Prepared RFP Responses
+OP073,43504.53814,8,Prepared Commercials
+OP073,43509.44856,8,Prepared Commercials
+OP073,43514.55064,9,Negotiation Meeting
+OP073,43524.80342,9,Negotiation Meeting
+OP073,43535.07009,9,Negotiation Meeting
+OP073,43543.468,10,Commercials Signed
+OP073,43545.95967,10,Commercials Signed
+OP073,43554.39925,11,Post Sales Support
+OP073,43558.52286,11,Post Sales Support
+OP074,43456.6055,1,Emailed Client
+OP074,43463.93606,2,Meeting with Client
+OP074,43471.9562,3,Presented to Client
+OP074,43480.60828,3,Presented to Client
+OP074,43488.2062,3,Presented to Client
+OP074,43490.55411,4,Prepared Custom Demonstration
+OP074,43495.67495,4,Prepared Custom Demonstration
+OP074,43504.92009,4,Prepared Custom Demonstration
+OP074,43515.12217,4,Prepared Custom Demonstration
+OP074,43516.19925,4,Prepared Custom Demonstration
+OP074,43518.21036,5,Prepared POC
+OP074,43523.31453,6,Provided Pre-Sales Support
+OP074,43532.68467,6,Provided Pre-Sales Support
+OP074,43534.82009,9,Negotiation Meeting
+OP075,43454.6055,1,Emailed Client
+OP075,43462.00759,2,Meeting with Client
+OP075,43464.87009,2,Meeting with Client
+OP075,43468.06106,3,Presented to Client
+OP075,43470.46939,3,Presented to Client
+OP075,43479.29022,4,Prepared Custom Demonstration
+OP075,43487.04231,6,Provided Pre-Sales Support
+OP075,43495.02495,8,Prepared Commercials
+OP075,43504.66453,8,Prepared Commercials
+OP075,43509.33606,9,Negotiation Meeting
+OP075,43517.78536,10,Commercials Signed
+OP075,43526.38259,10,Commercials Signed
+OP075,43531.65967,10,Commercials Signed
+OP075,43542.39995,10,Commercials Signed
+OP076,43457.6055,1,Emailed Client
+OP076,43467.0937,1,Emailed Client
+OP076,43469.78884,2,Meeting with Client
+OP076,43474.5812,2,Meeting with Client
+OP076,43483.24509,3,Presented to Client
+OP076,43486.48745,4,Prepared Custom Demonstration
+OP076,43495.90411,6,Provided Pre-Sales Support
+OP076,43499.81314,9,Negotiation Meeting
+OP076,43507.29022,9,Negotiation Meeting
+OP077,43455.6055,1,Emailed Client
+OP077,43463.493,1,Emailed Client
+OP077,43470.72772,2,Meeting with Client
+OP077,43481.18675,3,Presented to Client
+OP077,43484.24925,4,Prepared Custom Demonstration
+OP077,43493.50828,5,Prepared POC
+OP077,43503.38745,6,Provided Pre-Sales Support
+OP077,43505.7687,7,Prepared RFP Responses
+OP077,43508.22217,7,Prepared RFP Responses
+OP077,43516.55481,7,Prepared RFP Responses
+OP077,43526.07078,8,Prepared Commercials
+OP077,43533.3555,8,Prepared Commercials
+OP077,43538.56939,9,Negotiation Meeting
+OP077,43543.52495,9,Negotiation Meeting
+OP077,43544.8062,9,Negotiation Meeting
+OP077,43546.03536,10,Commercials Signed
+OP077,43550.92286,10,Commercials Signed
+OP077,43561.71453,10,Commercials Signed
+OP077,43571.77495,11,Post Sales Support
+OP077,43581.51522,11,Post Sales Support
+OP078,43454.6055,1,Emailed Client
+OP078,43457.07147,1,Emailed Client
+OP078,43458.69925,2,Meeting with Client
+OP078,43464.00342,3,Presented to Client
+OP078,43466.19856,3,Presented to Client
+OP078,43471.93259,4,Prepared Custom Demonstration
+OP078,43481.06036,6,Provided Pre-Sales Support
+OP078,43487.72286,6,Provided Pre-Sales Support
+OP078,43491.21314,7,Prepared RFP Responses
+OP078,43494.18397,8,Prepared Commercials
+OP078,43501.04856,9,Negotiation Meeting
+OP078,43506.65967,11,Post Sales Support
+OP079,43455.6055,1,Emailed Client
+OP079,43464.76522,2,Meeting with Client
+OP079,43468.63328,2,Meeting with Client
+OP079,43470.99092,2,Meeting with Client
+OP079,43481.0055,3,Presented to Client
+OP079,43491.80828,3,Presented to Client
+OP079,43498.15759,3,Presented to Client
+OP079,43504.42286,3,Presented to Client
+OP079,43511.73884,5,Prepared POC
+OP079,43518.02009,5,Prepared POC
+OP079,43521.34856,6,Provided Pre-Sales Support
+OP079,43525.63814,7,Prepared RFP Responses
+OP079,43536.54995,8,Prepared Commercials
+OP079,43543.59856,8,Prepared Commercials
+OP079,43552.5062,8,Prepared Commercials
+OP079,43557.90689,9,Negotiation Meeting
+OP079,43568.53675,10,Commercials Signed
+OP079,43578.62842,11,Post Sales Support
+OP080,43456.6055,1,Emailed Client
+OP080,43465.10689,1,Emailed Client
+OP080,43474.26522,1,Emailed Client
+OP080,43479.9305,2,Meeting with Client
+OP080,43485.24856,2,Meeting with Client
+OP080,43493.34439,3,Presented to Client
+OP080,43495.16384,4,Prepared Custom Demonstration
+OP080,43504.4937,5,Prepared POC
+OP080,43513.55272,5,Prepared POC
+OP080,43518.43536,6,Provided Pre-Sales Support
+OP080,43529.42981,6,Provided Pre-Sales Support
+OP080,43537.40828,7,Prepared RFP Responses
+OP080,43545.6687,7,Prepared RFP Responses
+OP080,43554.25759,8,Prepared Commercials
+OP080,43563.36384,9,Negotiation Meeting
+OP080,43568.59717,9,Negotiation Meeting
+OP080,43570.73189,11,Post Sales Support
+OP081,43458.6055,1,Emailed Client
+OP081,43460.28745,1,Emailed Client
+OP081,43463.08467,1,Emailed Client
+OP081,43470.40342,3,Presented to Client
+OP081,43474.64439,3,Presented to Client
+OP081,43482.35897,4,Prepared Custom Demonstration
+OP081,43488.79717,4,Prepared Custom Demonstration
+OP081,43490.57564,4,Prepared Custom Demonstration
+OP081,43491.93675,5,Prepared POC
+OP081,43502.26661,5,Prepared POC
+OP081,43507.87147,5,Prepared POC
+OP081,43516.58536,6,Provided Pre-Sales Support
+OP081,43519.94231,9,Negotiation Meeting
+OP081,43528.32772,10,Commercials Signed
+OP081,43533.22981,11,Post Sales Support
+OP081,43536.45411,11,Post Sales Support
+OP082,43456.6055,1,Emailed Client
+OP082,43465.53953,2,Meeting with Client
+OP082,43473.85272,2,Meeting with Client
+OP082,43483.77911,3,Presented to Client
+OP082,43486.19022,3,Presented to Client
+OP082,43490.47495,3,Presented to Client
+OP082,43493.9062,3,Presented to Client
+OP082,43497.893,4,Prepared Custom Demonstration
+OP082,43504.54022,4,Prepared Custom Demonstration
+OP082,43511.51245,4,Prepared Custom Demonstration
+OP082,43520.06384,6,Provided Pre-Sales Support
+OP082,43527.93884,6,Provided Pre-Sales Support
+OP082,43530.60759,6,Provided Pre-Sales Support
+OP082,43540.76661,7,Prepared RFP Responses
+OP082,43541.9805,7,Prepared RFP Responses
+OP082,43549.28953,10,Commercials Signed
+OP082,43550.47772,11,Post Sales Support
+OP082,43559.00481,11,Post Sales Support
+OP083,43457.6055,1,Emailed Client
+OP083,43466.8312,2,Meeting with Client
+OP083,43473.6062,5,Prepared POC
+OP083,43481.69647,5,Prepared POC
+OP083,43486.86106,5,Prepared POC
+OP083,43491.568,6,Provided Pre-Sales Support
+OP083,43501.76453,7,Prepared RFP Responses
+OP083,43503.2812,7,Prepared RFP Responses
+OP083,43513.58397,9,Negotiation Meeting
+OP083,43521.79995,10,Commercials Signed
+OP083,43525.64022,10,Commercials Signed
+OP083,43532.95342,11,Post Sales Support
+OP083,43542.47564,11,Post Sales Support
+OP083,43552.65828,11,Post Sales Support
+OP084,43454.6055,5,Prepared POC
+OP084,43458.05342,5,Prepared POC
+OP084,43459.90897,6,Provided Pre-Sales Support
+OP084,43465.26384,6,Provided Pre-Sales Support
+OP084,43469.5805,6,Provided Pre-Sales Support
+OP084,43470.88884,6,Provided Pre-Sales Support
+OP084,43480.99578,8,Prepared Commercials
+OP084,43489.13397,8,Prepared Commercials
+OP084,43492.1305,9,Negotiation Meeting
+OP084,43497.8555,10,Commercials Signed
+OP084,43500.96106,10,Commercials Signed
+OP084,43504.29439,10,Commercials Signed
+OP084,43506.53953,11,Post Sales Support
+OP084,43514.95481,11,Post Sales Support
+OP085,43454.6055,1,Emailed Client
+OP085,43457.04856,2,Meeting with Client
+OP085,43468.01175,2,Meeting with Client
+OP085,43476.9305,2,Meeting with Client
+OP085,43478.80481,2,Meeting with Client
+OP085,43487.70064,2,Meeting with Client
+OP085,43494.17078,4,Prepared Custom Demonstration
+OP085,43499.2187,5,Prepared POC
+OP085,43504.75967,6,Provided Pre-Sales Support
+OP085,43506.48814,6,Provided Pre-Sales Support
+OP085,43514.25759,7,Prepared RFP Responses
+OP085,43524.52286,7,Prepared RFP Responses
+OP085,43533.41175,8,Prepared Commercials
+OP085,43536.22634,9,Negotiation Meeting
+OP085,43544.82842,10,Commercials Signed
+OP085,43554.99856,11,Post Sales Support
+OP086,43457.6055,1,Emailed Client
+OP086,43464.92425,1,Emailed Client
+OP086,43474.04022,2,Meeting with Client
+OP086,43483.23467,3,Presented to Client
+OP086,43484.52564,3,Presented to Client
+OP086,43491.75689,4,Prepared Custom Demonstration
+OP086,43495.1062,4,Prepared Custom Demonstration
+OP086,43505.14647,5,Prepared POC
+OP086,43513.76314,6,Provided Pre-Sales Support
+OP086,43519.02286,6,Provided Pre-Sales Support
+OP086,43526.91661,10,Commercials Signed
+OP086,43530.96314,10,Commercials Signed
+OP086,43538.1562,11,Post Sales Support
+OP086,43548.40967,11,Post Sales Support
+OP087,43455.6055,1,Emailed Client
+OP087,43457.88536,1,Emailed Client
+OP087,43464.24439,3,Presented to Client
+OP087,43471.51036,3,Presented to Client
+OP087,43476.92009,3,Presented to Client
+OP087,43483.41106,4,Prepared Custom Demonstration
+OP087,43489.76731,5,Prepared POC
+OP087,43493.11592,6,Provided Pre-Sales Support
+OP087,43494.85411,7,Prepared RFP Responses
+OP087,43502.77703,7,Prepared RFP Responses
+OP087,43509.52842,7,Prepared RFP Responses
+OP087,43518.43259,8,Prepared Commercials
+OP087,43521.31731,8,Prepared Commercials
+OP087,43525.30064,9,Negotiation Meeting
+OP087,43535.16592,10,Commercials Signed
+OP087,43539.42564,10,Commercials Signed
+OP087,43545.21175,10,Commercials Signed
+OP087,43548.57564,11,Post Sales Support
+OP087,43557.91036,11,Post Sales Support
+OP088,43454.6055,2,Meeting with Client
+OP088,43465.17217,3,Presented to Client
+OP088,43472.28536,3,Presented to Client
+OP088,43476.73953,3,Presented to Client
+OP088,43478.793,3,Presented to Client
+OP088,43481.7937,3,Presented to Client
+OP088,43487.4555,4,Prepared Custom Demonstration
+OP088,43488.71939,4,Prepared Custom Demonstration
+OP088,43495.93536,4,Prepared Custom Demonstration
+OP088,43502.16314,5,Prepared POC
+OP088,43508.818,5,Prepared POC
+OP088,43510.82634,8,Prepared Commercials
+OP088,43515.9437,8,Prepared Commercials
+OP088,43523.18814,9,Negotiation Meeting
+OP088,43527.48328,10,Commercials Signed
+OP088,43535.7937,11,Post Sales Support
+OP088,43539.32634,11,Post Sales Support
+OP089,43455.6055,1,Emailed Client
+OP089,43460.32911,4,Prepared Custom Demonstration
+OP089,43467.63884,5,Prepared POC
+OP089,43477.94786,5,Prepared POC
+OP089,43481.45481,6,Provided Pre-Sales Support
+OP089,43490.56939,6,Provided Pre-Sales Support
+OP089,43496.73814,8,Prepared Commercials
+OP089,43505.34647,8,Prepared Commercials
+OP089,43516.2305,8,Prepared Commercials
+OP089,43522.58536,10,Commercials Signed
+OP089,43532.05897,11,Post Sales Support
+OP090,43457.6055,1,Emailed Client
+OP090,43461.37078,2,Meeting with Client
+OP090,43469.8187,3,Presented to Client
+OP090,43479.71384,4,Prepared Custom Demonstration
+OP090,43487.20897,4,Prepared Custom Demonstration
+OP090,43490.01245,4,Prepared Custom Demonstration
+OP090,43491.52634,5,Prepared POC
+OP090,43502.46314,5,Prepared POC
+OP090,43511.60134,9,Negotiation Meeting
+OP090,43517.95342,9,Negotiation Meeting
+OP090,43525.34647,10,Commercials Signed
+OP090,43529.55272,11,Post Sales Support
+OP090,43538.02147,11,Post Sales Support
+OP091,43457.6055,1,Emailed Client
+OP091,43458.69786,2,Meeting with Client
+OP091,43462.7055,2,Meeting with Client
+OP091,43466.58536,3,Presented to Client
+OP091,43475.90272,5,Prepared POC
+OP091,43483.57495,8,Prepared Commercials
+OP091,43488.4805,8,Prepared Commercials
+OP091,43491.8812,9,Negotiation Meeting
+OP091,43497.71245,9,Negotiation Meeting
+OP091,43506.31661,9,Negotiation Meeting
+OP091,43515.78953,11,Post Sales Support
+OP091,43517.7312,11,Post Sales Support
+OP091,43519.96661,11,Post Sales Support
+OP092,43454.6055,1,Emailed Client
+OP092,43458.968,2,Meeting with Client
+OP092,43468.25272,2,Meeting with Client
+OP092,43475.65828,2,Meeting with Client
+OP092,43484.5312,2,Meeting with Client
+OP092,43492.76661,2,Meeting with Client
+OP092,43497.06175,3,Presented to Client
+OP092,43500.80828,4,Prepared Custom Demonstration
+OP092,43505.90342,4,Prepared Custom Demonstration
+OP092,43516.2805,4,Prepared Custom Demonstration
+OP092,43520.48675,4,Prepared Custom Demonstration
+OP092,43526.80342,5,Prepared POC
+OP092,43529.79092,5,Prepared POC
+OP092,43539.44022,6,Provided Pre-Sales Support
+OP092,43541.56175,7,Prepared RFP Responses
+OP092,43551.70272,9,Negotiation Meeting
+OP092,43558.48259,9,Negotiation Meeting
+OP093,43454.6055,2,Meeting with Client
+OP093,43465.4562,3,Presented to Client
+OP093,43469.08397,3,Presented to Client
+OP093,43470.43675,5,Prepared POC
+OP093,43474.49856,6,Provided Pre-Sales Support
+OP093,43478.74925,7,Prepared RFP Responses
+OP093,43487.87981,9,Negotiation Meeting
+OP093,43497.44925,10,Commercials Signed
+OP093,43501.52009,11,Post Sales Support
+OP093,43511.31592,11,Post Sales Support
+OP093,43517.12425,11,Post Sales Support
+OP094,43458.6055,3,Presented to Client
+OP094,43464.74647,4,Prepared Custom Demonstration
+OP094,43473.62634,8,Prepared Commercials
+OP094,43481.52842,10,Commercials Signed
+OP094,43490.83675,10,Commercials Signed
+OP095,43454.6055,1,Emailed Client
+OP095,43463.9555,1,Emailed Client
+OP095,43470.10064,1,Emailed Client
+OP095,43472.05064,2,Meeting with Client
+OP095,43477.92703,2,Meeting with Client
+OP095,43487.80481,3,Presented to Client
+OP095,43498.52564,4,Prepared Custom Demonstration
+OP095,43509.17286,5,Prepared POC
+OP095,43518.55967,5,Prepared POC
+OP095,43522.66175,5,Prepared POC
+OP095,43529.35342,6,Provided Pre-Sales Support
+OP095,43534.00064,7,Prepared RFP Responses
+OP095,43539.19022,7,Prepared RFP Responses
+OP095,43544.94856,7,Prepared RFP Responses
+OP095,43553.6055,9,Negotiation Meeting
+OP095,43555.5805,10,Commercials Signed
+OP095,43564.36522,10,Commercials Signed
+OP095,43569.12772,11,Post Sales Support
+OP096,43458.6055,2,Meeting with Client
+OP096,43468.89022,3,Presented to Client
+OP096,43470.32425,6,Provided Pre-Sales Support
+OP096,43480.70967,7,Prepared RFP Responses
+OP096,43490.03467,9,Negotiation Meeting
+OP096,43496.92634,10,Commercials Signed
+OP096,43504.50134,10,Commercials Signed
+OP096,43513.64231,10,Commercials Signed
+OP097,43454.6055,2,Meeting with Client
+OP097,43460.68953,2,Meeting with Client
+OP097,43466.78606,3,Presented to Client
+OP097,43468.67911,4,Prepared Custom Demonstration
+OP097,43471.99995,5,Prepared POC
+OP097,43479.66036,6,Provided Pre-Sales Support
+OP097,43482.96592,6,Provided Pre-Sales Support
+OP097,43488.52425,7,Prepared RFP Responses
+OP097,43491.21106,7,Prepared RFP Responses
+OP097,43499.01314,8,Prepared Commercials
+OP097,43505.95272,8,Prepared Commercials
+OP097,43510.14439,9,Negotiation Meeting
+OP097,43519.77634,9,Negotiation Meeting
+OP097,43523.90828,9,Negotiation Meeting
+OP097,43534.70203,10,Commercials Signed
+OP097,43545.44092,11,Post Sales Support
+OP097,43549.8062,11,Post Sales Support
+OP098,43455.6055,1,Emailed Client
+OP098,43459.34578,3,Presented to Client
+OP098,43466.84856,3,Presented to Client
+OP098,43469.17495,4,Prepared Custom Demonstration
+OP098,43476.9187,4,Prepared Custom Demonstration
+OP098,43483.92286,5,Prepared POC
+OP098,43486.32147,5,Prepared POC
+OP098,43497.02842,6,Provided Pre-Sales Support
+OP098,43506.53328,7,Prepared RFP Responses
+OP098,43514.52078,7,Prepared RFP Responses
+OP098,43523.01939,7,Prepared RFP Responses
+OP098,43532.80134,7,Prepared RFP Responses
+OP098,43534.14647,9,Negotiation Meeting
+OP098,43541.41731,9,Negotiation Meeting
+OP098,43552.19856,10,Commercials Signed
+OP098,43559.65828,11,Post Sales Support
+OP098,43563.37495,11,Post Sales Support
+OP099,43454.6055,1,Emailed Client
+OP099,43458.86661,2,Meeting with Client
+OP099,43464.14717,3,Presented to Client
+OP099,43467.41384,4,Prepared Custom Demonstration
+OP099,43469.16453,4,Prepared Custom Demonstration
+OP099,43480.02634,5,Prepared POC
+OP099,43488.33675,5,Prepared POC
+OP099,43495.98259,6,Provided Pre-Sales Support
+OP099,43497.71314,7,Prepared RFP Responses
+OP099,43503.20967,7,Prepared RFP Responses
+OP099,43507.51036,8,Prepared Commercials
+OP099,43514.58328,9,Negotiation Meeting
+OP100,43454.6055,1,Emailed Client
+OP100,43462.95481,1,Emailed Client
+OP100,43468.11106,2,Meeting with Client
+OP100,43477.49439,4,Prepared Custom Demonstration
+OP100,43484.99092,5,Prepared POC
+OP100,43489.3555,5,Prepared POC
+OP100,43496.49509,6,Provided Pre-Sales Support
+OP100,43507.14509,6,Provided Pre-Sales Support
+OP100,43514.05272,7,Prepared RFP Responses
+OP100,43515.50411,8,Prepared Commercials
+OP100,43525.7555,8,Prepared Commercials
+OP100,43529.26036,9,Negotiation Meeting
+OP100,43532.30689,11,Post Sales Support
+OP100,43534.78745,11,Post Sales Support
